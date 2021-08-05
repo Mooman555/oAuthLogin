@@ -1,0 +1,30 @@
+.login-form-wrapper{
+    width: 50vw;
+    margin-left: 13%;
+    margin-top:10%;
+}
+.login-submit-button{
+    width:10%;
+}
+/* .login-container-wrapper{
+
+} */
+
+.login-button-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 24%;
+}
+
+.login-button-wrapper > button{
+   
+    margin-top: 2%;
+}
+#login-gmail-button{
+    background-color: rgb(212, 80, 3);
+}
+
+#login-gmail-button:hover{
+    background-color: orange;
+}
