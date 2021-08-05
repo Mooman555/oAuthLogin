@@ -45,7 +45,7 @@ const LoginForm = () => {
           Log In
         </Button>
         <Button id = "login-gmail-button"  onClick={googleLoginHandler} type="submit">
-        <SiGmail/>  Login with Gmail
+        <SiGmail/>Login with Gmail
         </Button>
         </div>
         
