@@ -28,3 +28,23 @@
 #login-gmail-button:hover{
     background-color: orange;
 }
+
+
+.display-show{
+    display: block;
+}
+.display-hide{
+    display: none;
+}
+
+.login-success-text{
+    margin-top: 20%;
+    margin-left: 30%;
+}
+.login-success-text > button {
+    width: 50%;
+}
+
+.login-success-text > p {
+    margin-left: 17%;
+}
